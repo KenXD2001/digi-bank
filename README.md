@@ -1,7 +1,3 @@
-You're right — let me now give you the **entire professional `README.md` inside a clean code editor view**, without jumping out of it. Here you go:
-
----
-
 ````markdown
 # 🚀 Digi Bank – Bank Management System UI
 
@@ -136,6 +132,3 @@ This project is part of a university capstone and is intended for demonstration 
 ```
 
 ---
-
-Let me know if you want this saved to a file or opened directly inside your terminal editor using `nano README.md` or `code README.md`.
-```
